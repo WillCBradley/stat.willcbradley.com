@@ -1,1 +1,1 @@
-(https://stat.willcbradley.com)[stat.willcbradley.com]
+[https://stat.willcbradley.com](stat.willcbradley.com)
